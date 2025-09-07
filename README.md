@@ -14,9 +14,7 @@ _Analyzing vendor efficiency and profitability to support strategic purchasing a
 - <a href="#exploratory-data-analysis-eda">Exploratory Data Analysis (EDA)</a>
 - <a href="#research-questions--key-findings">Research Questions & Key Findings</a>
 - <a href="#dashboard">Dashboard</a>
-- <a href="#how-to-run-this-project">How to Run This Project</a>
-- <a href="#final-recommendations">Final Recommendations</a>
-- <a href="#author--contact">Author & Contact</a>
+
 
 ---
 
@@ -126,12 +124,11 @@ vendor-performance-analysis/
   - Bulk Purchase Savings  
   - Performance Heatmaps  
 
-![Vendor Performance Dashboard](images/dashboard.png)
+![Vendor Performance Dashboard](images/dashboard.png.png)
 
 ---
 
 <h2 id="how-to-run-this-project">How to Run This Project</h2>
 
-1. Clone the repository:  
-```bash
-git clone https://github.com/yourusername/vendor-performance-analysis.git
+
+
